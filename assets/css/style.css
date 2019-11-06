@@ -1,0 +1,29 @@
+#img{
+position: static;
+        display: block;
+        width: 100%;
+    }
+@media screen and (max-width: 739px) {
+    body {
+        background-color: red;
+      }
+    
+        #img {
+            position: static;
+            display: block;
+            width: 100%;
+
+    }
+  }
+@media screen and (min-width: 740px) and (max-width: 1279px){
+    body {
+        background-color: green;
+      }
+        #img {
+            position: static;
+            display: block;
+            width: 100%;
+
+}
+
+  }
