@@ -1,7 +1,7 @@
 #img{
 position: static;
         display: block;
-        width: 100%;
+        width: 50%;
     }
 @media screen and (max-width: 739px) {
     body {
@@ -22,7 +22,7 @@ position: static;
         #img {
             position: static;
             display: block;
-            width: 100%;
+            width: 75%;
 
 }
 
